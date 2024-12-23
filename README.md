@@ -1,6 +1,8 @@
 # 💫 About Me:
 🎓 I have a background in Computer Science via Artificial Intelligence and Data Science.  <br>💻 I specialize in Competitive Programming.<br>🌱 Currently learning Full Stack Web Development. <br>🔭 Working on Communication Skills.  <br>✨ Fun fact: The only thing certain about me is uncertainity.  
 
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -33,3 +35,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
