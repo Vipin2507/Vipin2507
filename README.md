@@ -26,7 +26,13 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 
-<p><a target="_blank" href="https://www.linkedin.com/in/vipintomar2507" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/vipintomar2507" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Vipin__Tomar/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/user/vipintomar/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/vipin07tomar"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerearth.com/@vipintomar2507/"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a></p>
+
+
 <p><img src="https://leetcode-badge-showcase.vercel.app/api?username=Vipin__Tomar" alt="LeetCode Badges" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vipin2507&show_icons=true&locale=en" alt="Vipin2507" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipin2507&" alt="Vipin2507" /></p>
