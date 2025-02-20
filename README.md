@@ -27,10 +27,10 @@
 <h2>⚡️ Where to find me</h2>
 
 <p><a target="_blank" href="https://www.linkedin.com/in/vipintomar2507" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Vipin__Tomar/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/user/vipintomar/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/vipin07tomar"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.hackerearth.com/@vipintomar2507/"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a></p>
+<a href="https://leetcode.com/u/Vipin__Tomar/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/user/vipintomar/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/vipin07tomar" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerearth.com/@vipintomar2507/" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a></p>
 
 
 <p><img src="https://leetcode-badge-showcase.vercel.app/api?username=Vipin__Tomar" alt="LeetCode Badges" /></p>
