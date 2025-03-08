@@ -32,7 +32,8 @@
 <a href="https://www.codechef.com/users/vipin07tomar" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.hackerearth.com/@vipintomar2507/" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a></p>
 
-
+<h2>⚡️Leetcode Calendar</h2>
+<p><img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=Vipin__Tomar" width="100%"><p>
 <p><img src="https://leetcode-badge-showcase.vercel.app/api?username=Vipin__Tomar" alt="LeetCode Badges" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vipin2507&show_icons=true&locale=en" alt="Vipin2507" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipin2507&" alt="Vipin2507" /></p>
