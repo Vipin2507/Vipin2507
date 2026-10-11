@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I have a background in Computer Science via Artificial Intelligence and Data Science.  <br>💻 I specialize in Competitive Programming.<br>🌱 Currently learning Full Stack Web Development. <br>🔭 Working on Communication Skills.  <br>✨ Fun fact: The only thing certain about me is uncertainity.  
+🎓 I have a background in Computer Science via Artificial Intelligence and Data Science.  <br>💻 I specialize in Competitive Programming.<br>🌱 Full Stack Web Developer. <br>🔭 Trying to learn something new each day.  <br>✨ Fun fact: The only thing certain about me is uncertainity.  
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
